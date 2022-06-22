@@ -1,35 +1,35 @@
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
+global.owner = ['24105166540'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc'
-global.numberowner = '6285822347348'
-global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/sahrull11'
-global.dana = '085822347348'
-global.pulsa = '085822347348,083843192208'
+global.nameowner = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
+global.numberowner = '24105166540'
+global.instagram = ''
+global.github = ''
+global.dana = '083181085070'
+global.pulsa = '083181085070,083181085070'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
-global.gc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
+global.namebot = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
+global.gc = 'https://chat.whatsapp.com/BpSRTUWGAWj3giHjQTN4Sh'
 global.web = 'https://youtu.be/jOhhY7ef_qM' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ini juga ganti 
+global.fotonya1 = '' //ganti jadi foto bot mu
+global.fotonya2 = '' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❚█══ArullBotz‖MD‖'
+global.wm = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
 global.watermark = wm
 global.wm2 = '                     「 ArullBotzMD あ⁩ 」'
-global.wm3 = '⫹⫺ ❚█══ArullBotz‖MD‖'
+global.wm3 = '⫹⫺ 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
+global.media = ''
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
